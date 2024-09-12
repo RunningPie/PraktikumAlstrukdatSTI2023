@@ -1,0 +1,12 @@
+/*
+NIM         : 18222047
+Nama        : Dama Dhananjaya Daliman
+Tanggal     : 
+Topik Prak  : 
+Deskripsi   : 
+*/
+
+int main(){
+
+    return 0;
+}
